@@ -1,0 +1,31 @@
+.formm{
+    position: absolute;
+top: 50%;
+left: 50%;transform: 
+translate(-50%, -50%);
+width: 350px;
+
+}
+
+.input-group{
+    text-align: left;
+    /* display: block; */
+}
+.input-group input{
+padding: 10px 6px;
+margin: 5px;
+
+}
+
+.input-group label{
+    font-size: large;
+font-family: sans-serif;
+font-weight: 500;
+
+}
+.sub{
+    width: 187px;
+padding: 10px 6px;
+margin: 5px;
+
+}
